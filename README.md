@@ -6,7 +6,7 @@ Whenever you are at Twitter "Home" page, this script will make sure you are set 
 - Browser (Firefox or Chrome preferably, but anything that TM or GM supports should work)
 - Userscript loader extension ([Tampermonkey](https://www.tampermonkey.net/) or [Greasemonkey](https://www.greasespot.net/)) installed
 ## Use
-- Navigate to [raw script page](https://raw.githubusercontent.com/Rodziac/twitter-switch-to-following/master/switch-to-following.js)
+- Navigate to [raw script page](https://github.com/Rodziac/twitter-switch-to-following/raw/main/switch-to-following.user.js)
 - When your userscript loader opens the script installation page, install the script
 - Use Twitter
 ## How
