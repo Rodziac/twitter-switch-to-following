@@ -3,7 +3,7 @@
 [Install Userscript](https://github.com/Rodziac/twitter-switch-to-following/raw/main/switch-to-following.user.js)
 ## What
 Whenever you are at Twitter "Home" page, this script will make sure you are set to "Following" by default.
-## Prerequisites
+## Need
 - Computer (Sorry, this one isn't for mobile apps)
 - Browser (Firefox or Chrome preferably, but anything that TM or GM supports should work)
 - Userscript loader extension ([Tampermonkey](https://www.tampermonkey.net/) or [Greasemonkey](https://www.greasespot.net/)) installed
